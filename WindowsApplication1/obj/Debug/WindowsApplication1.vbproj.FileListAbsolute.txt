@@ -1,0 +1,69 @@
+c:\users\utilizator\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+c:\users\utilizator\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+c:\users\utilizator\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+c:\users\utilizator\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+c:\users\utilizator\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+c:\users\utilizator\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+c:\users\utilizator\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+c:\users\utilizator\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+c:\users\utilizator\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+c:\users\utilizator\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+c:\users\utilizator\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\no\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\no\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\no\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\no\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\no\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\no\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\no\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\no\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\no\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\no\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\no\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+F:\visual basic\zile pana la salariu\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+F:\visual basic\zile pana la salariu\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+F:\visual basic\zile pana la salariu\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+F:\visual basic\zile pana la salariu\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Andrei\Desktop\visual basic\zile pana la salariu\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Andrei\Desktop\visual basic\zile pana la salariu\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Andrei\Desktop\visual basic\zile pana la salariu\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Andrei\Desktop\visual basic\zile pana la salariu\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Andrei\Desktop\visual basic\zile pana la salariu\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Andrei\Desktop\visual basic\zile pana la salariu\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Andrei\Desktop\visual basic\zile pana la salariu\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Andrei\Desktop\visual basic\zile pana la salariu\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Andrei\Desktop\visual basic\zile pana la salariu\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Andrei\Desktop\visual basic\zile pana la salariu\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Andrei\Desktop\visual basic\zile pana la salariu\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+I:\manele 2014\Proiecte VB\605\MARIA ANDREI\zile pana la salariu\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+I:\manele 2014\Proiecte VB\605\MARIA ANDREI\zile pana la salariu\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+I:\manele 2014\Proiecte VB\605\MARIA ANDREI\zile pana la salariu\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+I:\manele 2014\Proiecte VB\605\MARIA ANDREI\zile pana la salariu\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\vb\_Visul_Basic\zile pana la salariu\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\vb\_Visul_Basic\zile pana la salariu\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\vb\_Visul_Basic\zile pana la salariu\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\vb\_Visul_Basic\zile pana la salariu\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\vb\_Visul_Basic\zile pana la salariu\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+E:\vb\_Visul_Basic\zile pana la salariu\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+E:\vb\_Visul_Basic\zile pana la salariu\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+E:\vb\_Visul_Basic\zile pana la salariu\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+E:\vb\_Visul_Basic\zile pana la salariu\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+E:\vb\_Visul_Basic\zile pana la salariu\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\vb\_Visul_Basic\zile pana la salariu\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\vb\_Visul_Basic\zile pana la salariu\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+F:\vb\Arsene Florin\zile pana la salariu\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+F:\vb\Arsene Florin\zile pana la salariu\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+F:\vb\Arsene Florin\zile pana la salariu\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+F:\vb\Arsene Florin\zile pana la salariu\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\MrCoult\Desktop\Teme\fac\vb\Arsene Florin\zile pana la salariu\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\MrCoult\Desktop\Teme\fac\vb\Arsene Florin\zile pana la salariu\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\MrCoult\Desktop\Teme\fac\vb\Arsene Florin\zile pana la salariu\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\MrCoult\Desktop\Teme\fac\vb\Arsene Florin\zile pana la salariu\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\MrCoult\Desktop\Teme\fac\vb\Arsene Florin\zile pana la salariu\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Users\MrCoult\Desktop\Teme\fac\vb\Arsene Florin\zile pana la salariu\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\MrCoult\Desktop\Teme\fac\vb\Arsene Florin\zile pana la salariu\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\MrCoult\Desktop\Teme\fac\vb\Arsene Florin\zile pana la salariu\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\MrCoult\Desktop\Teme\fac\vb\Arsene Florin\zile pana la salariu\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\MrCoult\Desktop\Teme\fac\vb\Arsene Florin\zile pana la salariu\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\MrCoult\Desktop\Teme\fac\vb\Arsene Florin\zile pana la salariu\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\MrCoult\Desktop\Teme\fac\vb\Arsene Florin\zile pana la salariu\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
